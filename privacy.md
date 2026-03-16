@@ -26,9 +26,7 @@ If the app includes advertisements, third-party advertising providers may collec
 
 ## Advertising
 
-NetCost may display ads provided by third-party advertising partners such as Google AdMob.
-
-These providers may collect limited device identifiers, usage data, or advertising-related information to serve and measure ads, subject to their own privacy policies.
+NetCost may display advertisements provided by third-party advertising partners such as Google AdMob. These providers may collect limited device information, advertising identifiers, and usage data in order to serve and measure advertisements. This data is processed according to the privacy policies of those providers.
 
 ## Third-Party Services
 
@@ -39,7 +37,8 @@ These services may process limited technical data as needed to provide their fun
 ## Data Storage
 
 Your entered data is stored:
-- locally on your device
+
+- locally on your device  
 - optionally in your personal iCloud storage, if enabled
 
 The developer does not maintain external servers for storing your financial data.
@@ -56,10 +55,10 @@ NetCost is not directed to children under 13, and the app is not designed to kno
 
 ## Changes to This Privacy Policy
 
-This Privacy Policy may be updated from time to time. Any updates will be reflected on this page with a new "Last updated" date.
+This Privacy Policy may be updated from time to time. Any updates will be reflected on this page with a new “Last updated” date.
 
 ## Contact
 
 If you have questions about this Privacy Policy, you can contact the developer at:
 
-[INSERT CONTACT EMAIL]
+makomisumarketing@gmail.com
