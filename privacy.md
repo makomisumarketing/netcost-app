@@ -61,4 +61,4 @@ This Privacy Policy may be updated from time to time. Any updates will be reflec
 
 If you have questions about this Privacy Policy, you can contact the developer at:
 
-makomisumarketing@gmail.com
+info@makomisumarketing.com
