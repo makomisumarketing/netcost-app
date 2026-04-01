@@ -1,6 +1,6 @@
 # Privacy Policy for NetCost
 
-Last updated: March 15, 2026
+Last updated: April 1, 2026
 
 NetCost is designed to help users track their recurring cost of living. Your privacy matters to us.
 
