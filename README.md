@@ -1,6 +1,6 @@
 # NetCost
 
-**Netcost** is a collectible card tracking app for collectors who want a simple way to organize their binder, track progress, and manage collection goals.
+**Netcost** is an expense tracking app that helps you understand your spending over time.
 
 Published by **[Mako Misu Marketing](https://www.makomisumarketing.com)**.
 
