@@ -14,9 +14,9 @@ We aim to respond within **3 business days**.
 
 ## More Information
 
-Visit the [Binder Page website](https://www.makomisumarketing.com/apps/binder-page) for app details, privacy policy, and terms & conditions.
+Visit the [Netcost website](https://www.makomisumarketing.com/apps/binder-page) for app details, privacy policy, and terms & conditions.
 
-- [About Binder Page](https://www.makomisumarketing.com/apps/netcost)
+- [About Netcost](https://www.makomisumarketing.com/apps/netcost)
 - [Privacy Policy](https://www.makomisumarketing.com/apps/netcost/netcost-privacy)
 - [Terms & Conditions](https://www.makomisumarketing.com/apps/netcost/netcost-tc)
 
